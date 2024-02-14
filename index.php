@@ -111,7 +111,7 @@ if ($cdata2 == "back") {
             [['text' => '𝗕𝗔𝗖𝗞', 'callback_data' => 'back2']]
         ]
     ]);
-    $videoUrl = "https://t.me/Mr_Mrs_Krishna/80";
+    $videoUrl = "https://t.me/Mr_Mrs_Krishna/154";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -139,7 +139,7 @@ if ($cdata2 == "gates") {
         ]
     ]);
 
-    $videoUrl = "https://t.me/Mr_Mrs_Krishna/80";
+    $videoUrl = "https://t.me/Mr_Mrs_Krishna/154";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -178,7 +178,7 @@ if ($cdata2 == "free") {
 ├𝑼𝒔𝒂𝒈𝒆 : <code>/ccn 𝒄𝒄|𝒎𝒎|𝒆𝒙𝒑|𝒄𝒗𝒗 </code>\n╚═════════════════╝\n</b>";
 
     // Replace this with your video URL
-    $videoUrl = "https://t.me/Mr_Mrs_Krishna/80";
+    $videoUrl = "https://t.me/Mr_Mrs_Krishna/154";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -229,7 +229,7 @@ if ($cdata2 == "premium") {
   ├𝑼𝒔𝒂𝒈𝒆 : /oyo 𝒄𝒄|𝒎𝒎|𝒆𝒙𝒑|𝒄𝒗𝒗\n╚═════════════════╝</b>";
 
     // Replace this with your video URL
-    $videoUrl = "https://t.me/Mr_Mrs_Krishna/80";
+    $videoUrl = "https://t.me/Mr_Mrs_Krishna/154";
 
     $inputMediaVideo = json_encode([
         'type' => 'video', 
@@ -278,7 +278,7 @@ if ($cdata2 == "herr") {
                </b>";
   
     // Change this to your video URL
-    $videoUrl = "https://t.me/Mr_Mrs_Krishna/80";
+    $videoUrl = "https://t.me/Mr_Mrs_Krishna/154";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -305,7 +305,7 @@ if ($cdata2 == "price") {
     ]);
 
     // Change this to your video URL
-    $videoUrl = "https://t.me/Mr_Mrs_Krishna/80";
+    $videoUrl = "https://t.me/Mr_Mrs_Krishna/154";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -351,7 +351,7 @@ if ($cdata2 == "channel") {
     $channelText = "<b>𝑱𝒐𝒊𝒏 𝒐𝒖𝒓 𝑶𝒇𝒇𝒊𝒄𝒊𝒂𝒍 𝑮𝒓𝒐𝒖𝒑 𝒂𝒏𝒅 𝑪𝒉𝒂𝒏𝒏𝒆𝒍</b>";
     
     // Change this to your video URL
-    $videoUrl = "https://t.me/Mr_Mrs_Krishna/80";
+    $videoUrl = "https://t.me/Mr_Mrs_Krishna/154";
 
     $inputMediaVideo = json_encode([
         'type' => 'video',
@@ -372,7 +372,7 @@ if ($cdata2 == "back2") {
 𝑬𝒙𝒑𝒍𝒐𝒓𝒆 𝒎𝒆 𝒎𝒐𝒓𝒆 𝒃𝒚 𝒄𝒍𝒊𝒄𝒌𝒊𝒏𝒈 𝒕𝒉𝒆 𝒃𝒖𝒕𝒕𝒐𝒏𝒔 𝒃𝒆𝒍𝒐𝒘</b>");
     
     // Change this to your video url
-    $backVideoUrl = "https://t.me/Mr_Mrs_Krishna/80"; 
+    $backVideoUrl = "https://t.me/Mr_Mrs_Krishna/154"; 
 
     $keyboard2 = json_encode([
         'inline_keyboard' => [
